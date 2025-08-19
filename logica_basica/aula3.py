@@ -22,3 +22,12 @@ print(r"Lucas \"Teixeira\"")
 print('Lucas "Teixeira"')
 print(1, 'Lucas "Teixeira"')
 print(2, "Lucas 'Teixeira'")
+
+print(end='\n')
+
+texto = '''Este é um exemplo de string
+    que abrange várias linhas.
+    A quebra de linha é feita
+    automaticamente.'''
+
+print(texto)

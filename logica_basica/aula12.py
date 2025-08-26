@@ -25,7 +25,6 @@ print(end='\n')
 nome_teste = 'Gabriel Tanabe'
 altura_teste = 1.70
 peso_teste = 70
-
 imc_teste = peso_teste / (altura_teste ** 2)
 
 print("2° FORMA UTILIZADA PADRÃO - INICIANTE")
